@@ -1,0 +1,2 @@
+# klencod-java-HASHEM_ISLAND_OS_PRO_NEW_STARTER_FIXED
+Project created by KLENCOD IDE
